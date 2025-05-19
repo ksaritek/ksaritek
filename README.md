@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🛠️ Systems. Languages. Infrastructure.
+### Rust, Go, Kubernetes — and whatever makes things fast and reliable.
 
-<!--
-**ksaritek/ksaritek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile 
+- **Name**: Koray  
+- **Province**: Netherlands 🇳🇱  
+- **Email**: koraysariteke@gmail.com  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+* ![os](https://img.shields.io/badge/OS-Linux-informational)
+* ![editor](https://img.shields.io/badge/Editor-Vim%2FVSCode-informational)
+* ![langs](https://img.shields.io/badge/Langs-Rust%2FJava%2FGo%2FPython%2FShell-informational)
+* ![focus](https://img.shields.io/badge/Focus-OS%2FStorage%2FBlockchain%2FAsyncProgramming-informational)
