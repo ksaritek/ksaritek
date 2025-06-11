@@ -1,4 +1,4 @@
-# 🛠️ Systems. Languages. Infrastructure.
+# 🛠️ Systems. Languages. Infrastructure. AI. LLM. 
 ### *Rust, Go, Kubernetes, AI — whatever makes development joyful.*
 
 ## Profile 
